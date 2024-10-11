@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aniket Joshi<br>A developer focused on learning and growing.<br><br><br>🌱 I’m currently learning Django and Vue.js<br>🗃️ All of my projects are available at _.<br>
+Hi 👋, I'm Aniket Joshi<br>A developer focused on learning and growing.<br><br><br>🌱 I’m currently learning Django and Vue.js.<br>🗃️ All of my projects are available at _.<br>
 
 
 # 💻 Tech Stack:
